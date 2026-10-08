@@ -10,13 +10,13 @@ I built this project as a practical exercise in data analysis and machine learni
 * Scikit-learn
 * Jupyter Notebook
 ## What I Did
- Explored and cleaned the dataset
- Used Matplotlib and Seaborn to create visualizations and understand the data
- Prepared the features and target
- Split the data into training and testing sets
- Scaled the features using StandardScaler
- Trained classification models
- Compared and evaluated the models
+* Explored and cleaned the dataset
+* Used Matplotlib and Seaborn to create visualizations and understand the data
+* Prepared the features and target
+* Split the data into training and testing sets
+* Scaled the features using StandardScaler
+* Trained classification models
+* Compared and evaluated the models
 ## Project Image
 ![Diabetes Prediction Results](charts/correlation_heatmap.png)
 ## How to Run
